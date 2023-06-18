@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yashi-019
-- 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...more languages 
 - 📫 How to reach me ...yashaswi1918@gmail.com
 
 <!---
