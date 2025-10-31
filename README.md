@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yashi-019
-- 🌱 I’m currently learning ...python
 - 📫 How to reach me ...yashaswi1918@gmail.com
 
 <!---
